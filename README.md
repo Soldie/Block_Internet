@@ -1,5 +1,5 @@
 # Block_Internet
-Blocking Internet access by installing a fake proxy server
+Блокировка доступа в интернет путем установки поддельного прокси-сервера
 
 ![Program](https://d.radikal.ru/d14/1901/15/bcd72acc40de.png)
 
